@@ -24,4 +24,5 @@ This project focuses on analyzing Amazon reviews using advanced Natural Language
 
 The model is trained on the [Amazon Product Reviews](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews) dataset from Kaggle.
 
+## Model
 [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/abdelrahmanelsheikh39/SentimentAnalysisAtDEPI2)
