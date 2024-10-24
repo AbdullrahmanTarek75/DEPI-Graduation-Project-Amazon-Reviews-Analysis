@@ -20,4 +20,8 @@ This project focuses on analyzing Amazon reviews using advanced Natural Language
 - **Programming Languages**: Python
 - **Libraries**: pandas, scikit-learn, transformers, matplotlib, seaborn
   
+## Dataset
+
+The model is trained on the [Amazon Product Reviews](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews) dataset from Kaggle.
+
 [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/abdelrahmanelsheikh39/SentimentAnalysisAtDEPI2)
